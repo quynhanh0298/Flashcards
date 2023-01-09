@@ -1,0 +1,28 @@
+content:
+- Map
+- Mutable Map
+- Functions as objects
+- Lambda expressions
+- Random
+- Writing files
+- The Math library
+- List
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Declaring classes
+- Default arguments
+- Named arguments
+- Constructors
+- Member functions
+- Secondary constructor
+- Working with strings
+- Arrays
+- String arrays
+- The main() function
+- Call stack
+- Scopes
+- Inheritance
+- Overriding functions
+- toString()
+- Data class

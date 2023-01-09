@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun printIfPrime(number: Int) {
+        // write here
+    }
+
+    fun main(args: Array<String>) {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20615#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 08 Jan 2023 10:57:39 UTC"
+record: -1
